@@ -9,7 +9,7 @@
 - 🍵 If you like my work [buy me a coffe](https://www.buymeacoffee.com/richardgs) 🍵
 
 ### Certificates
-![badge_cybersecurity](badge-cybersecurity-essentials-210.png)
+[<img alt="badge_cybersecurity" width="150px" src="badge-cybersecurity-essentials-210.png" />](https://www.credly.com/badges/825a533c-ec24-4701-874d-b82a83568e6e/public_url)
 
 <!---
 richard-hgs/richard-hgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
