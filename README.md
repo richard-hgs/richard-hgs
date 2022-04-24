@@ -8,7 +8,8 @@
 - 📫 How to reach me Email(richard-hgs@hotmail.com), Cellphone/Whatsapp(+55 31 9-9248-9659), Instagram([@richardgss](https://www.instagram.com/richardgss/)), Linked-in([@richardgs](https://www.linkedin.com/in/richard-garcia-de-souza-0a0b72140))
 - 🍵 If you like my work [buy me a coffe](https://www.buymeacoffee.com/richardgs) 🍵
 
-
+### Certificates
+![badge_cybersecurity](badge-cybersecurity-essentials-210.png)
 
 <!---
 richard-hgs/richard-hgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
