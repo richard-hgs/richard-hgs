@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Richard since i was a boy, i like to learn new things and solve problems that we don't even know that exists. 
-     You can find me in: Instagram([@richardgss](https://www.instagram.com/richardgss/)), Linked-in([@richardgs](https://www.linkedin.com/in/richard-garcia-de-souza-0a0b72140))
+- 👋 Hi, I’m Richard
 - 👀 I’m interested in development in multiple languages, i like to learn things awesome about programming.
 - 🌱 I’m currently learning Web(Laravel, NextJS, ReactJS), OperatingSystemDev(Assembly, C, C++ ...), Python(Machine Learning, Utilities)
 - 📗 I’m already know Android(MVVM, Jetpack, 3 Years working in this area), Desktop(Electron, ReactJS, 1 year working in this area), Swift(Native, 1 year working in this area)
