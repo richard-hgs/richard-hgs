@@ -8,11 +8,10 @@
 - 🍵 If you like my work [buy me a coffe](https://www.buymeacoffee.com/richardgs) 🍵
 
 ### Apps Developed
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. Prótese 
-<br/>
-[<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />]()
-<br/>
-&nbsp;&nbsp;&nbsp;IOS & ANDROID
+| Sr. Prótese   |
+| ------------- |
+| [<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />]() |
+| IOS & ANDROID |
 
 ### Certificates
 [<img alt="badge_cybersecurity" width="150px" src="badge-cybersecurity-essentials-210.png" />](https://www.credly.com/badges/825a533c-ec24-4701-874d-b82a83568e6e/public_url)
