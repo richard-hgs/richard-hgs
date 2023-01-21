@@ -10,7 +10,7 @@
 ### Apps Developed
 | Sr. Prótese   | BuyPoint Store |
 | ------------- | -------------- |           
-| [<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />]() | [<img alt="buypointstore" height="300px" src="/apps/buypointstore.gif" />]()
+| [<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />](https://github.com/richard-hgs) | [<img alt="buypointstore" height="300px" src="/apps/buypointstore.gif" />](https://github.com/richard-hgs)
 | ANDROID & IOS | ANDROID & IOS |
 
 ### Certificates
