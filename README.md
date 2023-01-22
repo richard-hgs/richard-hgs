@@ -13,7 +13,7 @@
 | [<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />](https://github.com/richard-hgs) | [<img alt="buypointstore" height="300px" src="/apps/buypointstore.gif" />](https://github.com/richard-hgs) | [<img alt="buypointcaixa" height="300px" src="/apps/buypoint-caixa.gif" />](https://github.com/richard-hgs)
 | ANDROID & IOS | ANDROID & IOS | WINDOWS (Electron + NodeJS + ReactJS + Material-UI + NAPI + DLLS C++)|
 
-### POS Integrations Performed
+### POS Apps Developed
 | Pagseguro | Cielo | Safra |
 | --- | --- | --- |
 | [<img alt="pagseguro" height="300px" src="/apps/pos_pagseg.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_cielo.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_safra.png" />](https://github.com/richard-hgs) |
