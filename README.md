@@ -14,7 +14,7 @@
 | ANDROID & IOS | ANDROID & IOS | WINDOWS (Electron + NodeJS + ReactJS + Material-UI + NAPI + DLLS C++)|
 
 ### POS Apps Developed
-| Pagseguro | Cielo | Safra |
+| PagSeguro | Cielo | Safra |
 | --- | --- | --- |
 | [<img alt="pagseguro" height="300px" src="/apps/pos_pagseg.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_cielo.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_safra.png" />](https://github.com/richard-hgs) |
 
