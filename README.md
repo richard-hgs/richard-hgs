@@ -7,17 +7,6 @@
 - 📫 How to reach me Email(richard-hgs@hotmail.com), Cellphone/Whatsapp(+55 31 9-9248-9659), Instagram([@richardgss](https://www.instagram.com/richardgss/)), Linked-in([@richardgs](https://www.linkedin.com/in/richard-garcia-de-souza-0a0b72140))
 - 🍵 If you like my work [buy me a coffe](https://www.buymeacoffee.com/richardgs) 🍵
 
-### Apps Developed
-| Sr. Prótese   | BuyPoint Store | BuyPoint Caixa |
-| ------------- | -------------- | -------------- |
-| [<img alt="srprotese" height="300px" src="/apps/srprotese.gif" />](https://github.com/richard-hgs) | [<img alt="buypointstore" height="300px" src="/apps/buypointstore.gif" />](https://github.com/richard-hgs) | [<img alt="buypointcaixa" height="300px" src="/apps/buypoint-caixa.gif" />](https://github.com/richard-hgs)
-| ANDROID & IOS | ANDROID & IOS | WINDOWS (Electron + NodeJS + ReactJS + Material-UI + NAPI + DLLS C++)|
-
-### POS Apps Developed
-| PagSeguro | Cielo | Safra |
-| --- | --- | --- |
-| [<img alt="pagseguro" height="300px" src="/apps/pos_pagseg.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_cielo.png" />](https://github.com/richard-hgs) | [<img alt="cielo" height="300px" src="/apps/pos_safra.png" />](https://github.com/richard-hgs) |
-
 ### Certificates
 [<img alt="badge_cybersecurity" width="150px" src="badge-cybersecurity-essentials-210.png" />](https://www.credly.com/badges/825a533c-ec24-4701-874d-b82a83568e6e/public_url)
 
