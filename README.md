@@ -7,7 +7,7 @@
 [<img alt="badge_aws" height="170px" width="200px" src="badge-aws.png" />](https://www.credly.com/badges/3860f48f-2ba0-475a-a2a4-705b24651a67/public_url)
 [<img alt="badge_databricks" height="170px" width="200px" src="badge-databricks2.png" />](https://credentials.databricks.com/edd98d60-31cf-4f6b-96cc-a664eb037c5b#acc.OVeTXaoC)
 
-### Activity Tracker ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+### Activity Tracker ![snake animation](https://github.com/richard-hgs/richard-hgs/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!---
